@@ -21,3 +21,7 @@ ANSWER: If the arrays don't match the test will throw an assertion error and it 
 ANSWER: First it will compare the outermost arrays. If they are unequal, the test will fail.
 If the outer arrays are same length, it will compare each pair of inner arrays by chekcking if they are the same length.
 If they're the same length, it will compare each element of the inner arrays.
+
+
+# Modified tests
+I modified the tests to have slightly different numbers so that the tests would fail.
