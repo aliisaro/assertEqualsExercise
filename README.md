@@ -13,7 +13,7 @@ wether a1 indexes are not equal to a2 indexes. If they are not equal, the method
 ## b. What will happen if the arrays a1 and a2 are not equal in testSingleDimensionalArrayEquality?
 ### Describe the outcome when the arrays do not match and how the test will respond.
 
-ANSWER: If the arrays don't match the test will throw an assertion error and it will print "Should be equal".
+ANSWER: If the arrays don't match the test will throw an assertion error and it will print the expected output and the actual output.
 
 ## c. How does the assertArrayEquals method handle multi-dimensional arrays as seen in testMultiDimensionalArrayEquality?
 ### Explain how assertArrayEquals compares multi-dimensional arrays and what it means for them to be equal.
